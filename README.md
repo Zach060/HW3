@@ -1,24 +1,11 @@
-#HW3
-#Zachary Ruhl
+# HW3
+# Zachary Ruhl
 # Why are Certain Programming Languages More Suited for Certain Tasks?
 
 ## Overview
 
 This LLM Research explores the question why certain programming languages are more suitable for specific tasks than others. Programming languages are made and fitted with distinct features that give them an advantage in certain areas such as performance and memory management. By looking at historical development of the languages and how they evolved over time this paper sheds light to why we can’t have a universal language to fit every task and how these languages will continue to evolve. 
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Historical Development](#historical-development)
-3. [Popular Programming Languages](#popular-programming-languages)
-   - [C#](#c)
-   - [Java](#java)
-   - [Python](#python)
-4. [Influential Researchers](#influential-researchers)
-5. [Why Can't We Have a Universal Programming Language?](#why-cant-we-have-a-universal-programming-language)
-6. [Optimizations in Programming Languages](#optimizations-in-programming-languages)
-7. [References](#references)
-
----
 
 ## Introduction
 
@@ -41,9 +28,9 @@ Java first originated back in 1995 by a team of engineers at Sun Microsystems. T
 Python was first created back in 1991 by Guido van Rossum with the purpose of a language that’s easy to understand but still complete complex tasks. While being produced the language had the philosophy that there should be one clear way to complete a given task. This gave the language a super easy learning curve due to it’s clean syntax. A key feature of python is that it’s dynamically typed meaning you don’t need to declare variables. In addition the language abstracts away from low-level details of the computer making it easier to focus on the problem at hand rather than underlying system hardware. Some criticisms about the language is that python is a lot slower than languages such as Java or C++ because of it’s an interpreted language with dynamic typing that comes with runtimes overhead. This makes it less viable for performance critical applications. However it has been known to dominate the data science and machine learning field. This is due to the vast amount of libraries that python has for it such as Numpy and Pandas.
 ## Influential Researchers
 
-- **Anders Hejlsberg** – Lead architect of C# and contributor to TypeScript.
-- **James Gosling** – Creator of Java, a language that transformed web and enterprise development.
-- **Guido van Rossum** – The creator of Python, known for its readability and simplicity.
+- [**Anders Hejlsberg**](https://en.wikipedia.org/wiki/Anders_Hejlsberg) – Lead architect of C# and contributor to TypeScript.
+- [**James Gosling**](https://en.wikipedia.org/wiki/James_Gosling) – Creator of Java, a language that transformed web and enterprise development.
+- [**Guido van Rossum**](https://en.wikipedia.org/wiki/Guido_van_Rossum) – The creator of Python, known for its readability and simplicity.
 
 ## Why Can't We Have a Universal Programming Language?
 Since specific languages give us advantages that others don’t, why can’t we just make one universal language that checks all the boxes? While this idea may seem appealing there are many reasons as to why this would never be a feasible option due to languages being optimized for certain tasks and attributes that couldn’t be possible with a combination. 
